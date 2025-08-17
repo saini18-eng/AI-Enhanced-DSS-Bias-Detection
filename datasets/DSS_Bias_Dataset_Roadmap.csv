@@ -1,0 +1,10 @@
+Module,Dataset Name,Link,Usage
+Speech-to-Text (Meeting Transcripts),AMI Meeting Corpus,http://groups.inf.ed.ac.uk/ami/corpus,Meeting recordings & transcripts for speech-to-text and dialogue analysis
+Speech-to-Text (Meeting Transcripts),ICSI Meeting Corpus,https://www1.icsi.berkeley.edu/Speech/mr,Multi-speaker meeting transcripts with annotations
+Speech-to-Text (Meeting Transcripts),Enron Email Dataset,https://www.cs.cmu.edu/~enron/,Corporate communication dataset for decision-making context
+Bias Detection (Fine-tune BERT),WinoBias,https://github.com/uclanlp/corefBias,Gender bias detection in coreference resolution
+Bias Detection (Fine-tune BERT),Bias in Bios,https://github.com/madhavprasad75/bias-in-bios,Occupational stereotypes and gender bias in biographies
+Bias Detection (Fine-tune BERT),Jigsaw Unintended Bias,https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification,Identity-based bias in online comments
+Bias Detection (Fine-tune BERT),Equity Evaluation Corpus (EEC),https://github.com/google/equity-evaluation-corpus,Bias evaluation corpus annotated for gender and race
+Decision Support Context (Corporate Data),"SEC Filings (10-K, 10-Q)",https://www.sec.gov/edgar/search/,Corporate governance and financial reports
+Decision Support Context (Corporate Data),Financial PhraseBank,https://www.research.tuni.fi/,Finance-domain sentiment dataset

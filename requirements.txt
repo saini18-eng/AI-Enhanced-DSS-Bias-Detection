@@ -1,0 +1,10 @@
+pandas
+numpy
+tqdm
+nltk
+transformers
+openai-whisper
+soundfile
+librosa
+# NOTE: Install PyTorch separately for your OS, e.g.:
+# pip install torch --index-url https://download.pytorch.org/whl/cpu
