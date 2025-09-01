@@ -1,6 +1,7 @@
-# AI-Enhanced Decision Support System (DSS) with Bias Detection
 
-This repository accompanies the paper **"AI-Enhanced Boardroom Decision Support System with Integrated Bias Detection for Corporate Governance"** and includes a dataset roadmap and reference code.
+# AI-Enhanced DSS Bias Detection
+
+An AI-powered Decision Support System with integrated bias detection to promote fairness and transparency in corporate boardroom decisions.
 
 ## Repository Layout
 ```
